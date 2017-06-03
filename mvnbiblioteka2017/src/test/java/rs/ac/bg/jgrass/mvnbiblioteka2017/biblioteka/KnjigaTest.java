@@ -1,6 +1,6 @@
 package rs.ac.bg.jgrass.mvnbiblioteka2017.biblioteka;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.util.LinkedList;
 
